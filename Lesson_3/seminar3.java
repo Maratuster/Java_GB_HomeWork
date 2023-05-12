@@ -1,11 +1,11 @@
-package Java_GB_HomeWork;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 // import myJavaLibrary.*;
 
-public class seminar2 {
+public class seminar3 {
     public static void main(String[] args) {
         clearScreen();
         /*
